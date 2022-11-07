@@ -1,0 +1,167 @@
+*{
+   background: #000;
+    color: white;
+}
+.logo h1{
+    color: rgb(0, 255, 221);
+    border: 3px solid cyan;
+    border-radius: 7px;
+    padding: 20px;
+    display: flex;
+}
+
+.ak117 h2{
+    border: 5px solid cyan;
+}
+
+.ak117 td{
+    border: 2px solid;
+}
+
+.barra{
+    background-color: white;
+    width: 100%;
+    min-width: 300px;
+    max-width: 100%;
+}
+
+.progreso-1{
+    background-color: aqua;
+    color: #000;
+    width: 25%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border: 1px solid black;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+
+.progreso-2{
+    background-color: aqua;
+    color: #000;
+    width: 77%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border: 1px solid #000;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+
+.progreso-3{
+    background-color: aqua;
+    color: #000;
+    width: 73%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border: 1px solid #000;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+
+.progreso-4{
+    background-color: aqua;
+    color: #000;
+    width: 65%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border: 1px solid #000;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+
+.progreso-5{
+    background-color: aqua;
+    color: #000;
+    width: 61%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border: 1px solid #000;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+
+.progreso-6{
+    background-color: aqua;
+    color: #000;
+    width: 46%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border: 1px solid #000;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+
+.cr-56-amax td{
+    border: 2px solid ;
+}
+
+.progreso-1-amax{
+    background: cyan;
+    color: #000;
+    width: 25%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border: 1px solid #000;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+
+.progreso-2-amax{
+    background: cyan;
+    color: #000;
+    width: 71%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border: 1px solid  #000;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+
+}
+
+.progreso-3-amax{
+    background: cyan;
+    color: #000;
+    width: 82%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border: 1px solid  #000;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+
+}
+
+.progreso-4-amax{
+    background: cyan;
+    color: #000;
+    width: 57%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border: 1px solid  #000;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+
+}
+
+.progreso-5-amax{
+    background: cyan;
+    color: #000;
+    width: 54%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border: 1px solid  #000;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+
+}
+
+.progreso-6-amax{
+    background: cyan;
+    color: #000;
+    width: 51%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border: 1px solid  #000;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+
+}
