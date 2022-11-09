@@ -1,4 +1,4 @@
-*{
+body{
    background: #000;
     color: white;
 }
@@ -8,14 +8,7 @@
     border-radius: 7px;
     padding: 20px;
     display: flex;
-}
-
-.ak117 h2{
-    border: 5px solid cyan;
-}
-
-.ak117 td{
-    border: 2px solid;
+    box-shadow: 3px 3px 30px -10px #00ffff;
 }
 
 .barra{
@@ -23,6 +16,15 @@
     width: 100%;
     min-width: 300px;
     max-width: 100%;
+}
+
+/* KA177 */
+.ak117 h2{
+    border: 5px solid cyan;
+}
+
+.ak117 td{
+    border: 2px solid;
 }
 
 .progreso-1{
@@ -91,6 +93,7 @@
     border-bottom-right-radius: 50px;
 }
 
+/* CR-56-AMAX */
 .cr-56-amax td{
     border: 2px solid ;
 }
@@ -166,6 +169,7 @@
 
 }
 
+/* ICR-1 */
 .icr-1 td{
     border: 2px solid white;
 }
@@ -226,9 +230,219 @@
 }
 
 .icr-1-datos-6{
-    background-color: aqua;
+    background-color: cyan;
     color: #000;
     width: 65%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border: 1px solid black;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+
+/* M13 */
+.m13 td{
+    border: 2px solid white;
+}
+
+.m13-datos-1{
+    background-color: cyan;
+    color: #000;
+    width: 24%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border: 1px solid black;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+
+.m13-datos-2{
+    background-color: cyan;
+    color: #000;
+    width: 88%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border: 1px solid black;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+
+.m13-datos-3{
+    background-color: cyan;
+    color: #000;
+    width: 63%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border: 1px solid black;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+
+.m13-datos-4{
+    background-color: cyan;
+    color: #000;
+    width: 61%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border: 1px solid black;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+
+.m13-datos-5{
+    background-color: cyan;
+    color: #000;
+    width: 67%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border: 1px solid black;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+
+.m13-datos-6{
+    background-color: cyan;
+    color: #000;
+    width: 47%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border: 1px solid black;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+
+/* PPSH-41 */
+.ppsh-41 td{
+    border: 2px solid white;
+}
+
+.ppsh-41-datos-1{
+    background-color: cyan;
+    color: #000;
+    width: 23%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border: 1px solid black;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+
+.ppsh-41-datos-2{
+    background-color: cyan;
+    color: #000;
+    width: 82%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border: 1px solid black;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+
+.ppsh-41-datos-3{
+    background-color: cyan;
+    color: #000;
+    width: 74%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border: 1px solid black;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+
+.ppsh-41-datos-4{
+    background-color: cyan;
+    color: #000;
+    width: 47%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border: 1px solid black;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+
+.ppsh-41-datos-5{
+    background-color: cyan;
+    color: #000;
+    width: 57%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border: 1px solid black;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+
+.ppsh-41-datos-6{
+    background-color: cyan;
+    color: #000;
+    width: 59%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border: 1px solid black;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+
+/* QQ9 */
+.qq9 td{
+    border:  2px solid white;
+}
+
+.qq9-datos-1{
+ background-color: cyan;
+    color: #000;
+    width: 26%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border: 1px solid black;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+
+.qq9-datos-2{
+ background-color: cyan;
+    color: #000;
+    width: 81%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border: 1px solid black;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+
+.qq9-datos-3{
+ background-color: cyan;
+    color: #000;
+    width: 41%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border: 1px solid black;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;    
+}
+
+.qq9-datos-4{
+ background-color: cyan;
+    color: #000;
+    width: 100%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.qq9-datos-5{
+ background-color: cyan;
+    color: #000;
+    width: 51%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border: 1px solid black;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+
+.qq9-datos-6{
+ background-color: cyan;
+    color: #000;
+    width: 36%;
     margin-top: 5px;
     margin-bottom: 5px;
     border: 1px solid black;
